@@ -1,5 +1,6 @@
 # docker_tuts
 
+Check this link - https://docs.google.com/document/d/1yGTV2E64A9Vd0WnS92Bg-cSuxf3B0sTboFCWUn-DfbE/edit?usp=sharing 
 
 - What is Docker?
 What is container?
