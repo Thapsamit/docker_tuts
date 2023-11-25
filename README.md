@@ -24,3 +24,8 @@ docker run -d -p 6380:6379 --name redis2 redis:6.0
 
 ```
 
+```bash
+
+docker logs container_id
+
+```
